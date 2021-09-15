@@ -1,6 +1,6 @@
 {
-    "name": "halpdesk/zizaco-entrust-laravel-6.0",
-    "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
+    "name": "brayden2544/zizaco-entrust-laravel-6.0",
+    "description": "This package provides a flexible way to add Role-based Permissions to Laravel 6.0",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
     "authors": [
@@ -23,6 +23,10 @@
         {
             "name": "Daniel Leppänen",
             "email": "daniel.leppanen@gmail.com"
+        },
+                {
+            "name": "Brayden Adams",
+            "email": "brayden2544@gmail.com"
         }
     ],
     "require": {
